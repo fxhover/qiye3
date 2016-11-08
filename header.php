@@ -8,8 +8,8 @@
 		'name' => '北京北唐科技有限公司',
 		'address' => '北京市海淀区罗庄北里锦秋家园3号楼408',
 		'tel' => '010-56170124',
-		'domain' => 'http://www.zhuang360.cn',
-		'email' => 'postmaster@zhuang360.cn',
+		'domain' => 'http://www.zuimeizijia.com',
+		'email' => 'postmaster@zuimeizijia.com',
 		'source_domain' => 'http://www.banlimi.com',
 	);
 ?>
