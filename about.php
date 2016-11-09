@@ -14,6 +14,9 @@
 		如涉及版权问题，请与我们联系，我们会及时做出相应的处理。<br>
 		如需加入到品牌收录，请邮件说明沟通！<br>
 		<br>
+		<p><b>联系方式：</b></p>
+		<p><?php echo $config['company'];?></p>
+		<p>公司地址：<?php echo $config['address'];?></p>
 		<p>联系电话：<?php echo $config['tel'];?></p>
 		<p>联系邮箱：<?php echo $config['email'];?></p>
 		<p>欢迎联系我们投稿。</p>
